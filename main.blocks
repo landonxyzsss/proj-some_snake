@@ -15,4 +15,4 @@ f 1 1 1 1 1 6 6 c 6 6 6 6 f . .
 f 6 1 1 1 1 1 6 6 6 6 6 c f . . 
 . f 6 1 1 1 1 1 1 6 6 6 f . . . 
 . . c c c c c c c c c f . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"n~Ewt!Dk02FQ;,ZCIAjr"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="V~=s!YrcM8rgtdMugsDD"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"n~Ewt!Dk02FQ;,ZCIAjr"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="V~=s!YrcM8rgtdMugsDD"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="spritesetpos" id="pjxz$SUAnHG@F;yii/dT"><value name="sprite"><block type="variables_get" id=":w3AYDG7~=Cr5hj^o$C]"><field name="VAR" id="*aav]#b?8vU#0iEPb5Kq">mySprite</field></block></value><value name="x"><shadow type="positionPicker" id="!z50egh]Ol)vR/zNfhV~"><field name="index">26</field></shadow></value><value name="y"><shadow type="positionPicker" id=",Kr2aN@8C9oez,z1F_-4"><field name="index">26</field></shadow></value></block></next></block></statement></block></xml>

@@ -1,5 +1,5 @@
 {
-    "name": "proj",
+    "name": "proj-some_snake",
     "description": "",
     "dependencies": {
         "device": "*"

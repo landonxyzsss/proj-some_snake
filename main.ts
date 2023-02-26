@@ -16,3 +16,4 @@ let mySprite = sprites.create(img`
     . f 6 1 1 1 1 1 1 6 6 6 f . . . 
     . . c c c c c c c c c f . . . . 
     `, SpriteKind.Player)
+mySprite.setPosition(26, 26)
